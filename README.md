@@ -19,20 +19,7 @@ Também tenho experiência com **Game Development** usando **Unity**.
 
 - 🟦 **C#**  
 - 🖥️ **Programação Orientada a Objetos (POO)**  
-- 🔧 **Desenvolvimento Back-end**  
 - 🎯 **Unity e Game Development**  
-
----
-
-## 💡 Projetos em destaque
-
-- **Password Generator** – Gerador de senhas seguras com **ASP.NET Core Razor Pages** e C# ([link para o projeto](https://github.com/JoaoAugustoSantos/PasswordGenerator))  
-
----
-
-## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAugustoSantos&layout=compact&theme=default)
 
 ---
 
